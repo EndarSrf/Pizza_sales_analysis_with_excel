@@ -1,4 +1,4 @@
-**Data Analytics Portfolio Using Excel**
+**Data Analytics Portfolio Using Excel**  
 Repo ini berisi portfolio proyek untuk analisis data menggunakan Microsoft Excel.
 Saya menggunakan file industri retail yang saya ambil dari kaggle.
 
