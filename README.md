@@ -2,7 +2,7 @@
 Repo ini berisi portfolio proyek untuk analisis data menggunakan Microsoft Excel.  
 Saya menggunakan file industri FnB yang saya ambil dari youtube.
 
-## 🗂️ Daftar Proyek
+## Daftar File:
 1. **Raw File**
    - Masih berupa file .xsl yang belum dirapikan
 2. **Clean & Analyze File**
