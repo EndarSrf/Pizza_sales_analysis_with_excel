@@ -2,6 +2,10 @@
 Repo ini berisi portfolio proyek untuk analisis data menggunakan Microsoft Excel.  
 Saya menggunakan file industri FnB yang saya ambil dari youtube.
 
+saya menggunakan dataset pizza sales tahun 2015 yang terdiri dari:
+order id, ....
+
+
 ## Daftar File:
 1. **Raw File**
    - Masih berupa file .xsl yang belum dirapikan
@@ -16,3 +20,8 @@ Saya menggunakan file industri FnB yang saya ambil dari youtube.
    - menambah helper column untuk mempermudah analisis
    - Analisis menggunakan pivot table.
    - Membuat chart yang sesuai dengan tipe analisis.
+
+insight dari analisis yang saya kerjakan menggunakan excel:
+- revenue tertinggi berada pada bulan JUli
+.....
+
