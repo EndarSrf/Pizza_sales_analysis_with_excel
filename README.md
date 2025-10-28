@@ -26,6 +26,3 @@ insight dari analisis yang saya kerjakan menggunakan excel:
 - dari grafik pareto, diketahui bahwa 80% revenue diperoleh dari hampir 70% menu yang ditawarkan, ini artinya proporsi penjualan setiap pizza hampir seimbang.
 - Distribusi revenue berdasarkan kategori adalah hampir merata, tidak ada kategori yang ekstrem dalam proporsi revenue.
 - Size L merupakan size yang paling banyak dibeli (46%), sementara pembeli sangat jarang yng membeli size XL dan XXL.
-
-.....
-
