@@ -3,8 +3,7 @@ Repo ini berisi portfolio proyek untuk analisis data menggunakan Microsoft Excel
 Saya menggunakan file industri FnB yang saya ambil dari youtube.
 
 saya menggunakan dataset pizza sales tahun 2015 yang terdiri dari:
-order id, ....
-
+pizza_id, order_id, pizza_id_name, quantity, order_date, order_time, unit_price, total_price, pizza_size, pizza_category, pizza_ingredients  
 
 ## Daftar File:
 1. **Raw File**
@@ -22,6 +21,11 @@ order id, ....
    - Membuat chart yang sesuai dengan tipe analisis.
 
 insight dari analisis yang saya kerjakan menggunakan excel:
-- revenue tertinggi berada pada bulan JUli
+- Revenue terbanyak berada pada bulan Juli, adapun yg terendah terdapat pada bulan september dan oktober secara berturut-turut.
+- Kuantitas terbanyak terdapat di hari jumat, di akhir pekan kuantitas mengalami penurunan dan terkecil juga pada hari minggu.
+- dari grafik pareto, diketahui bahwa 80% revenue diperoleh dari hampir 70% menu yang ditawarkan, ini artinya proporsi penjualan setiap pizza hampir seimbang.
+- Distribusi revenue berdasarkan kategori adalah hampir merata, tidak ada kategori yang ekstrem dalam proporsi revenue.
+- Size L merupakan size yang paling banyak dibeli (46%), sementara pembeli sangat jarang yng membeli size XL dan XXL.
+
 .....
 
